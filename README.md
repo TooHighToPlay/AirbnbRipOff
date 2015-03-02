@@ -20,4 +20,8 @@ https://protected-beyond-2747.herokuapp.com/
 
 [2] rackup
 
+## Tutorial to host static web page on Heroku
+
+https://devcenter.heroku.com/articles/static-sites-ruby
+
 
